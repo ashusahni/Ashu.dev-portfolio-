@@ -1,47 +1,124 @@
-# Startup - Free Next.js Startup Website Template
+# Ashu Sahni - Full Stack Developer Portfolio
 
-Startup free, open-source, and premium-quality startup website template for Next.js comes with everything you need to launch a startup, business, or SaaS website, including all essential sections, components, and pages.
+Welcome to my professional portfolio website! I'm a passionate Full Stack Developer with over 5 years of experience creating innovative web solutions and turning ideas into reality.
 
-If you're looking for a high-quality and visually appealing, feature-rich Next.js Template for your next startup, SaaS, or business website, this is the perfect choice and starting point for you!
+## 🚀 About Me
 
-### ✨ Key Features
-- Crafted for Startup and SaaS Business
-- Next.js 13 and Tailwind CSS
-- All Essential Business Sections and Pages
-- High-quality and Clean Design
-- Dark and Light Version
-- TypeScript Support
-and Much More ...
+I specialize in modern web technologies and have successfully delivered 50+ projects across various industries. My expertise spans the entire development stack, from frontend user interfaces to backend systems and cloud infrastructure.
 
-### [🔥 Get Startup Pro](https://nextjstemplates.com/templates/saas-starter-startup)
+### 🛠️ Tech Stack
 
-[![Startup Pro](https://cdn.nextjstemplates.com/Startup-Pro---Next.js-Starter-Template-for-SaaS-Startups-282e26f7-f543-4ae4-a777-ac306c08cce8.png)](https://nextjstemplates.com/templates/saas-starter-startup)
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Backend**: Node.js, Express.js, Python
+- **Databases**: MongoDB, PostgreSQL, Firebase
+- **Cloud & DevOps**: AWS, Docker, Git
+- **Tools**: VS Code, Figma, GitHub
+- **Other**: Redux, WebSockets, REST APIs
 
-Startup Pro - Expertly crafted for fully-functional, high-performing SaaS startup websites. Comes with with Authentication, Database, Blog, and all the essential integrations necessary for SaaS business sites.
+## ✨ Portfolio Features
 
+- **Modern Design**: Clean, responsive design with dark/light mode
+- **Interactive Animations**: Smooth animations powered by Framer Motion
+- **Performance Optimized**: Built with Next.js 15 for optimal performance
+- **TypeScript**: Full type safety throughout the application
+- **Responsive**: Mobile-first design that works on all devices
+- **SEO Optimized**: Proper meta tags and structured data
 
-### [🚀 View Free Demo](https://startup.nextjstemplates.com/)
+## 🎯 Key Sections
 
-### [🚀 View Pro Demo](https://startup-pro.nextjstemplates.com/)
+- **Hero Section**: Eye-catching introduction with animated tech stack
+- **About**: Professional background and expertise
+- **Features**: Core skills and capabilities
+- **Testimonials**: Client feedback and reviews
+- **Pricing**: Service packages and rates
+- **Blog**: Technical articles and insights
+- **Contact**: Get in touch for collaborations
 
-### [📦 Download](https://nextjstemplates.com/templates/startup)
+## 🚀 Getting Started
 
-### [🔥 Get Pro](https://nextjstemplates.com/templates/saas-starter-startup)
+### Prerequisites
 
-### [🔌 Documentation](https://nextjstemplates.com/docs)
+- Node.js 18+ 
+- npm or yarn
 
-### ⚡ Deploy Now
+### Installation
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fstartup-nextjs)
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/portfolio.git
+cd portfolio
+```
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/startup-nextjs)
+2. Install dependencies
+```bash
+npm install
+```
 
+3. Run the development server
+```bash
+npm run dev
+```
 
-### 📄 License
-Startup is 100% free and open-source, feel free to use with your personal and commercial projects.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-### 💜 Support
-If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
+### Build for Production
 
-### ✨ Explore and Download - Free [Next.js Templates](https://nextjstemplates.com)
-# Ashu.dev-portfolio-
+```bash
+npm run build
+npm start
+```
+
+## 🛠️ Built With
+
+- **[Next.js 15](https://nextjs.org/)** - React framework for production
+- **[TypeScript](https://www.typescriptlang.org/)** - Type safety
+- **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework
+- **[Framer Motion](https://www.framer.com/motion/)** - Animation library
+- **[Radix UI](https://www.radix-ui.com/)** - Accessible UI components
+- **[Tabler Icons](https://tabler-icons.io/)** - Beautiful icons
+
+## 📱 Responsive Design
+
+The portfolio is fully responsive and optimized for:
+- 📱 Mobile devices
+- 💻 Desktop computers
+- 🖥️ Tablets
+- 🖥️ Large screens
+
+## 🌙 Dark/Light Mode
+
+Toggle between dark and light themes for optimal viewing experience in any environment.
+
+## 📧 Contact Information
+
+- **Email**: ashu.sahni@example.com
+- **Phone**: +1 (555) 123-4567
+- **Location**: Remote / Worldwide
+- **Availability**: Open to new opportunities
+
+## 🤝 Let's Work Together
+
+I'm always interested in new opportunities and exciting projects. Whether you need:
+- A complete web application
+- Frontend development
+- Backend API development
+- Database design
+- Cloud infrastructure setup
+- Technical consulting
+
+Feel free to reach out and let's discuss how I can help bring your ideas to life!
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🙏 Acknowledgments
+
+- Built with Next.js and Tailwind CSS
+- Icons from Tabler Icons
+- UI components from Radix UI
+- Animations powered by Framer Motion
+
+---
+
+**Ready to start your next project?** [Get in touch](#contact) and let's create something amazing together! 🚀
