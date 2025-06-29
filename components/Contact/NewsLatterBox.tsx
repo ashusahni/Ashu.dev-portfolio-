@@ -31,13 +31,13 @@ const NewsLatterBox = () => {
         <div className="flex items-center space-x-2">
           <TechIcon name="mail" className="text-primary" size={20} />
           <span className="text-sm text-body-color dark:text-body-color-dark break-all">
-            ashu.sahni@example.com
+            ashusahni833@gmail.com
           </span>
         </div>
         <div className="flex items-center space-x-2">
           <TechIcon name="phone" className="text-primary" size={20} />
           <span className="text-sm text-body-color dark:text-body-color-dark">
-            +1 (555) 123-4567
+            9582099846
           </span>
         </div>
         <div className="flex items-center space-x-2">
@@ -50,7 +50,7 @@ const NewsLatterBox = () => {
       
       <div className="mt-8 flex flex-col space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
         <Button asChild className="w-full sm:w-auto">
-          <a href="mailto:ashu.sahni@example.com">
+          <a href="mailto:ashusahni833@gmail.com">
             Send Email
           </a>
         </Button>
