@@ -14,8 +14,8 @@ const NewsLatterBox = () => {
       className="relative z-10 rounded-sm bg-white p-8 shadow-three dark:bg-gray-dark dark:shadow-two dark:bg-opacity-40 sm:p-10 lg:px-12 xl:p-14"
     >
       <div className="flex flex-col items-center space-y-4 md:flex-row md:space-x-4 md:space-y-0">
-        <div className="flex h-16 w-16 items-center justify-center rounded-full bg-primary/10">
-          <TechIcon name="mail" className="text-primary" size={32} />
+        <div className="flex h-16 w-16 items-center justify-center rounded-full bg-primary/10 overflow-hidden">
+          <img src="https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=facearea&w=128&q=80&facepad=2" alt="Ashu Sahni" className="object-cover w-12 h-12 rounded-full" />
         </div>
         <div className="text-center md:text-left">
           <h3 className="mb-2 text-xl font-bold text-black dark:text-white">
@@ -27,20 +27,20 @@ const NewsLatterBox = () => {
         </div>
       </div>
       
-      <div className="mt-8 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        <div className="flex items-center space-x-3">
+      <div className="mt-8 flex flex-col gap-4 sm:flex-row sm:justify-between sm:items-center">
+        <div className="flex items-center space-x-2">
           <TechIcon name="mail" className="text-primary" size={20} />
-          <span className="text-sm text-body-color dark:text-body-color-dark">
+          <span className="text-sm text-body-color dark:text-body-color-dark break-all">
             ashu.sahni@example.com
           </span>
         </div>
-        <div className="flex items-center space-x-3">
+        <div className="flex items-center space-x-2">
           <TechIcon name="phone" className="text-primary" size={20} />
           <span className="text-sm text-body-color dark:text-body-color-dark">
             +1 (555) 123-4567
           </span>
         </div>
-        <div className="flex items-center space-x-3">
+        <div className="flex items-center space-x-2">
           <TechIcon name="map-pin" className="text-primary" size={20} />
           <span className="text-sm text-body-color dark:text-body-color-dark">
             Remote / Worldwide

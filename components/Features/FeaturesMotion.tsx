@@ -6,6 +6,21 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { motion } from "framer-motion";
 import { TechIcon } from "@/components/ui/tech-icons";
 
+const projectImages = [
+  // Frontend Development
+  "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=600&q=80", // code on screen
+  // Backend Development
+  "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80", // backend/server
+  // UI/UX Design
+  "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80", // design
+  // DevOps & Deployment
+  "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=600&q=80", // devops/cloud
+  // Problem Solving
+  "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=600&q=80", // analytics/solving
+  // Team Collaboration
+  "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=600&q=80", // team
+];
+
 const FeaturesMotion = () => {
   return (
     <section id="skills" className="py-16 md:py-20 lg:py-28">
@@ -33,6 +48,9 @@ const FeaturesMotion = () => {
               viewport={{ once: true }}
             >
               <Card className="group h-full border-0 bg-white/50 backdrop-blur-sm shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-2 dark:bg-gray-800/50">
+                <div className="relative h-40 w-full mb-4 overflow-hidden rounded-t-md">
+                  <img src={projectImages[index]} alt={feature.title} className="object-cover w-full h-full" />
+                </div>
                 <CardHeader className="text-center">
                   <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-primary/10 text-primary group-hover:bg-primary group-hover:text-white transition-all duration-300">
                     {feature.icon}
