@@ -86,11 +86,11 @@ const AboutSectionOne = () => {
                           </div>
                           <div>
                             <p className="font-semibold text-black dark:text-white">Experience</p>
-                            <p className="text-body-color dark:text-body-color-dark">5+ Years</p>
+                            <p className="text-body-color dark:text-body-color-dark">2+ Years</p>
                           </div>
                           <div>
                             <p className="font-semibold text-black dark:text-white">Projects</p>
-                            <p className="text-body-color dark:text-body-color-dark">50+ Completed</p>
+                            <p className="text-body-color dark:text-body-color-dark">20+ Completed</p>
                           </div>
                           <div>
                             <p className="font-semibold text-black dark:text-white">Availability</p>
