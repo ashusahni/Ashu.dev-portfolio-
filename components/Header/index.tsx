@@ -70,7 +70,7 @@ const Header = () => {
                   onClick={handleNavToggler}
                   id="navbarToggler"
                   aria-label="Toggle Menu"
-                  className="absolute right-4 top-1/2 block -translate-y-1/2 rounded-lg px-3 py-[6px] ring-primary focus:ring-2 lg:hidden"
+                  className="absolute right-4 top-1/2 hidden -translate-y-1/2 rounded-lg px-3 py-[6px] ring-primary focus:ring-2 lg:block"
                 >
                   <span className="relative my-[6px] block h-[2px] w-[30px] bg-black transition-all duration-300 dark:bg-white">
                     {navigationToggler && "rotate-45"}

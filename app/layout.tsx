@@ -5,6 +5,7 @@ import { Inter } from "next/font/google";
 import "node_modules/react-modal-video/css/modal-video.css";
 import "../styles/index.css";
 import { Providers } from "./providers";
+import MobileBottomNav from "@/components/ui/MobileBottomNav";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -27,6 +28,7 @@ export default function RootLayout({
           {children}
           <Footer />
           <ScrollToTop />
+          <MobileBottomNav />
         </Providers>
       </body>
     </html>
