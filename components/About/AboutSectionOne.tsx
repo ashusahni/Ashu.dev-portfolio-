@@ -22,9 +22,9 @@ const AboutSectionOne = () => {
                     About Me
                   </h2>
                   <p className="mb-9 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
-                    I&apos;m a passionate Full Stack Developer with over 5 years of experience creating innovative web solutions. 
-                    I specialize in modern technologies like React, Node.js, and cloud platforms, delivering scalable applications 
-                    that drive business growth.
+                    I&apos;m a  Full Stack Developer with 2+ years of experience building scalable, user-focused web applications using React, Node.js, and cloud platforms. I’m driven by clean code, performance, and delivering solutions that support business growth.
+
+
                   </p>
                   
                   <div className="mb-8 grid grid-cols-2 gap-4">
@@ -32,13 +32,13 @@ const AboutSectionOne = () => {
                       <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10">
                         <TechIcon name="check" className="text-primary" size={20} />
                       </div>
-                      <span className="text-sm font-medium text-black dark:text-white">5+ Years Experience</span>
+                      <span className="text-sm font-medium text-black dark:text-white">2+ Years Experience</span>
                     </div>
                     <div className="flex items-center space-x-3">
                       <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10">
                         <TechIcon name="check" className="text-primary" size={20} />
                       </div>
-                      <span className="text-sm font-medium text-black dark:text-white">50+ Projects Completed</span>
+                      <span className="text-sm font-medium text-black dark:text-white">20+ Projects Completed</span>
                     </div>
                     <div className="flex items-center space-x-3">
                       <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10">

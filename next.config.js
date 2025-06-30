@@ -4,7 +4,14 @@ const nextConfig = {
     domains: [
       "localhost",
       "cdn.sanity.io",
-      "images.unsplash.com"
+      "images.unsplash.com",
+      "as1.ftcdn.net",
+      "as2.ftcdn.net",
+      "as3.ftcdn.net",
+      "as4.ftcdn.net",
+      "as5.ftcdn.net",
+      "as6.ftcdn.net",
+      "as7.ftcdn.net",
     ],
     remotePatterns: [
       {

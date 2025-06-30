@@ -169,7 +169,7 @@ const Footer = () => {
                       Email Address
                     </h4>
                     <p className="text-base font-medium text-body-color">
-                      ashu.sahni@example.com
+                      ashutoshsahni833@gmail.com
                     </p>
                   </div>
                 </div>
@@ -182,7 +182,7 @@ const Footer = () => {
                       Phone Number
                     </h4>
                     <p className="text-base font-medium text-body-color">
-                      +1 (555) 123-4567
+                      +91 982099746
                     </p>
                   </div>
                 </div>
@@ -210,7 +210,7 @@ const Footer = () => {
               <div className="w-full px-4 md:w-1/2">
                 <div className="text-center md:text-left">
                   <p className="text-base text-body-color">
-                    © 2024 Ashu Sahni. All rights reserved.
+                    © 2025 Ashu Sahni. All rights reserved.
             </p>
           </div>
         </div>

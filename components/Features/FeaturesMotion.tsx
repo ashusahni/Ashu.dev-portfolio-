@@ -8,15 +8,15 @@ import { TechIcon } from "@/components/ui/tech-icons";
 
 const projectImages = [
   // Frontend Development
-  "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=600&q=80", // code on screen
+  "https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg", // backend/server
   // Backend Development
-  "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80", // backend/server
+  "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=600&q=80", // code on screen
   // UI/UX Design
-  "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80", // design
+  "https://images.unsplash.com/photo-1541462608143-67571c6738dd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", // design
   // DevOps & Deployment
-  "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=600&q=80", // devops/cloud
+  "https://as1.ftcdn.net/jpg/05/22/18/66/1000_F_522186651_sjPyyCdVMZslnyIaM7HFRB2XQP22pFp2.jpg", // devops/cloud
   // Problem Solving
-  "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=600&q=80", // analytics/solving
+  "https://as1.ftcdn.net/v2/jpg/12/57/04/46/1000_F_1257044651_DTyvJC55SUrA8SLp4AlqYhZFMqFapJgh.jpg", // analytics/solving
   // Team Collaboration
   "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=600&q=80", // team
 ];

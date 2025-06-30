@@ -14,8 +14,8 @@ const PricingMotion = () => {
     {
       id: 1,
       title: "Web Development",
-      price: isMonthly ? "2500" : "25000",
-      duration: isMonthly ? "mo" : "yr",
+      // price: isMonthly ? "" : "",
+      // duration: isMonthly ? "mo" : "yr",
       description: "Custom web applications built with modern technologies and best practices.",
       features: [
         "Custom Web Applications",
@@ -31,8 +31,8 @@ const PricingMotion = () => {
     {
       id: 2,
       title: "Full Stack Solutions",
-      price: isMonthly ? "4000" : "40000",
-      duration: isMonthly ? "mo" : "yr",
+      // price: isMonthly ? "" : "",
+      // duration: isMonthly ? "mo" : "yr",
       description: "Complete end-to-end solutions including frontend, backend, and database design.",
       features: [
         "Frontend Development",
@@ -48,8 +48,8 @@ const PricingMotion = () => {
     {
       id: 3,
       title: "Consulting",
-      price: isMonthly ? "150" : "1500",
-      duration: isMonthly ? "hr" : "mo",
+      // price: isMonthly ? "" : "",
+      // duration: isMonthly ? "hr" : "mo",
       description: "Technical consulting and guidance for your development projects.",
       features: [
         "Technical Architecture",
@@ -112,10 +112,10 @@ const PricingMotion = () => {
                   
                   <div className="mt-4">
                     <span className="text-4xl font-bold text-primary">
-                      ${service.price}
+                     
                     </span>
                     <span className="text-gray-600 dark:text-gray-400">
-                      /{service.duration}
+                     
                     </span>
                   </div>
                 </CardHeader>

@@ -90,12 +90,12 @@ const BlogMotion = () => {
                   {/* Action Buttons */}
                   <div className="flex gap-2">
                     <Button asChild size="sm" className="flex-1">
-                      <Link href="#">
+                      <Link href={blog.projectLink} target="_blank" rel="noopener noreferrer">
                         View Project
                       </Link>
                     </Button>
                     <Button asChild variant="outline" size="sm">
-                      <Link href="#">
+                      <Link href={blog.sourceCode} target="_blank" rel="noopener noreferrer">
                         Source Code
                       </Link>
                     </Button>
