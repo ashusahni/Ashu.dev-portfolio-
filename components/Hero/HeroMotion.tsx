@@ -57,7 +57,7 @@ const HeroMotion = () => {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ duration: 0.6, delay: 0.6 }}
                 >
-               Hi, I&apos;m Ashu Sahni, a Full Stack Developer with 2+ years of experience turning ideas into scalable web applications. Specialized in React, Node.js, and modern web technologies to deliver seamless user experiences.
+               Hi, I&apos;m  a Full Stack Developer with 2+ years of experience turning ideas into scalable web applications. Specialized in React, Node.js, and modern web technologies to deliver seamless user experiences.
                 </motion.p>
                 
                 <motion.div
